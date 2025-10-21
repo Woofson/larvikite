@@ -13,4 +13,4 @@ A color theme inspired by the norwegian rock called Larvikitt (Larvikite).
 #FF6F61 - Solar Veil
 #5A7D6B - Frosted Pine
 
-![Showcase Palette](./theme_showcase_2.png "Nordic Moonstone")
+![Showcase Palette](./assets/theme_showcase_2.png "Nordic Moonstone")
