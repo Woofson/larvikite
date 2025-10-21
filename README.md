@@ -1,6 +1,8 @@
 # Norwegian Moonstone
 
-A color theme inspired by the norwegian rock called Larvikitt (Larvikite).
+A color theme inspired by the norwegian rock called Larvikitt (Larvikite).  
+Once the palette is dead set, I will start build themes.  
+
 
 #2B2B2B - Midnight Granite  
 #A4C7D6 - Feldspar Flash  
@@ -13,4 +15,6 @@ A color theme inspired by the norwegian rock called Larvikitt (Larvikite).
 #FF6F61 - Solar Veil  
 #5A7D6B - Frosted Pine  
 
-![Showcase Palette](./assets/theme_showcase_2.png "Nordic Moonstone")
+![Showcase Palette](./assets/theme_showcase_3.png "Nordic Moonstone")
+
+- Bolt J Woofson.
