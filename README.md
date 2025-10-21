@@ -2,6 +2,11 @@
 
 A color theme inspired by the norwegian rock called Larvikitt (Larvikite).  
 Once the palette is dead set, I will start build themes.  
+Also in the inspiration is some other nordic colors, such as aurora,  
+the low red sun in the late summer evenings. The Heather, our national flower.  
+Wintery greens and gold.
+
+I have included the first initial Alacritty theme, but some more tweaks is needed!
 
 
 #2B2B2B - Midnight Granite  
