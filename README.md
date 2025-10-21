@@ -9,12 +9,13 @@ Once the palette is dead set, I will start build themes.
 #D8D8D8 - Nordic Mist  
 #B0B0B0 - Fjord Silver  
 #5E7A94 - Lunar Blue  
+#5A7D6B - Frosted Pine  
 #8A8A8A - Glacial Smoke  
 #F4C542 - Nordic Gold  
 #7FFFB3 - Boreal Glow  
 #FF6F61 - Solar Veil  
-#5A7D6B - Frosted Pine  
+#A86BAD - Heather Bloom    
 
-![Showcase Palette](./assets/theme_showcase_3.png "Nordic Moonstone")
+![Showcase Palette](./assets/theme_showcase_4.png "Nordic Moonstone")
 
 - Bolt J Woofson.
