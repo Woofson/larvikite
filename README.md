@@ -1,10 +1,9 @@
 # Norwegian Moonstone
 
-A color theme inspired by the norwegian rock called Larvikitt (Larvikite).  
-Once the palette is dead set, I will start build themes.  
-Also in the inspiration is some other nordic colors, such as aurora,  
-the low red sun in the late summer evenings. The Heather, our national flower.  
-Wintery greens and gold.
+A calm northern color palette, inspired by norwegian wild untamed nature.  
+Roots in this palette is a norwegian rock, called Larvikitt (Larvikite).  
+A beautiful dark rock, with lots of blue and silver spackles.  
+Mixed together with our national flora, northern lights, late summer sunsets and silvery blue fjords.
 
 I have included the first initial Alacritty theme, but some more tweaks is needed!
 
