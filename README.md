@@ -3,9 +3,11 @@
 A calm northern color palette, inspired by norwegian wild untamed nature.  
 Roots in this palette is a norwegian rock, called Larvikitt (Larvikite).  
 A beautiful dark rock, with lots of blue and silver spackles.  
-Mixed together with our national flora, northern lights, late summer sunsets and silvery blue fjords.
+Mixed together with our national flora, northern lights, late summer sunsets, deep blue fjords, and hars long cold winters.
 
-I have included the first initial Alacritty theme, but some more tweaks is needed!
+I have included the first initial Alacritty theme, but some more tweaks is needed!  
+Once the palette is locked, I will create some nice themes to go.  
+
 
 
 #2B2B2B - Midnight Granite  
