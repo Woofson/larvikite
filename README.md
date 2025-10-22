@@ -24,4 +24,5 @@ Once the palette is locked, I will create some nice themes to go.
 
 ![Showcase Palette](./assets/theme_showcase_4.png "Nordic Moonstone")
 
-- Bolt J Woofson.
+
+*/Woofson*
