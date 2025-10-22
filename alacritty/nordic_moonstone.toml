@@ -1,11 +1,11 @@
-# author: Bolt J Woofson
-# from: https://github.com/
+# Author: Woofson
+# From  : https://github.com/Woofson/larvikite
 
 [colors.primary]
 background = "#2B2B2B" #Midnight Granite
-foreground = "#D8D8D8" #Nordic Mist
+foreground = "#8A8A8A" #Glacial Smoke
 
-[colors.normal]
+[colors.normal] #Winter time
 black   = "#2B2B2B" #Midnight Granite
 red     = "#FF6F61" #Solar Veil
 green   = "#5A7D6B" #Frosted Pine
@@ -15,12 +15,12 @@ magenta = "#A86BAD" #Heather Bloom
 cyan    = "#7FFFB3" #Boreal Glow
 white   = "#D8D8D8" #Nordic Mist
 
-[colors.bright]
-black   = "#52494E"
-red     = "#FF4F58"
-green   = "#73D936"
-yellow  = "#FFDD33"
-blue    = "#96A6C8"
-magenta = "#AFAFD7"
-cyan    = "#95A99F"
-white   = "#F5F5F5"
+[colors.bright] #Summer time
+black   = "#5e5e5e" #Bergen Morning
+red     = "#db968c" #Dark Salmon
+green   = "#8fae9e" #Lichen
+yellow  = "#FAE2A2" #Wheat
+blue    = "#9aadbf" #Cold Steel
+magenta = "#CDA6c0" #Thistle
+cyan    = "#e5ffef" #Dew
+white   = "#ffffff" #Snow
